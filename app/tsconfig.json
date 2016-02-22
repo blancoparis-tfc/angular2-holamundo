@@ -24,7 +24,8 @@
     "buildOnSave": true,
     "files": [
         "app.component.ts",
-        "boot.ts"
+        "boot.ts",
+        "../node_modules/angular2/typings/browser.d.ts"
     ],
     "atom": {
         "rewriteTsconfig": true
